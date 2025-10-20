@@ -2,6 +2,11 @@
 
 This documentation provides an extensive, detailed reference for understanding, modifying, and porting Tinkers' Construct. The documentation is structured to support both developers working with the Java/Minecraft codebase and those porting the system to other platforms (specifically Unity with C#).
 
+## Quick Links
+
+- **[Getting Started Guide](./GETTING-STARTED.md)** - Start here for your use case
+- **[Quick Reference](./QUICK-REFERENCE.md)** - Fast lookups for common tasks
+
 ## Documentation Structure
 
 ### 📐 [Architecture](./Architecture/README.md)

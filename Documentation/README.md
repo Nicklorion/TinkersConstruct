@@ -2,10 +2,20 @@
 
 This documentation provides an extensive, detailed reference for understanding, modifying, and porting Tinkers' Construct. The documentation is structured to support both developers working with the Java/Minecraft codebase and those porting the system to other platforms (specifically Unity with C#).
 
+## 🎯 Rebuild from Scratch
+
+**NEW**: Complete guide to rebuild Tinkers' Construct as a standalone survival crafting game!
+- **[→ REBUILD FROM SCRATCH GUIDE ←](./REBUILD-FROM-SCRATCH.md)**
+- **Game Name**: Forge & Force
+- **Focus**: Temperature and Force as progression gates
+- **Platform**: C# with Unity
+- **Content**: 170KB of documentation with full implementation details
+
 ## Quick Links
 
 - **[Getting Started Guide](./GETTING-STARTED.md)** - Start here for your use case
 - **[Quick Reference](./QUICK-REFERENCE.md)** - Fast lookups for common tasks
+- **[Rebuild from Scratch](./REBUILD-FROM-SCRATCH.md)** - Complete standalone game guide
 
 ## Documentation Structure
 
